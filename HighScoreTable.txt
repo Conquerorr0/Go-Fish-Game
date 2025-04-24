@@ -1,0 +1,6 @@
+High Score Table
+Ali	50
+Sibel	35
+Ceyda	35
+Elif	15
+Kaan	10 
